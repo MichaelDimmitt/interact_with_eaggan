@@ -1,6 +1,8 @@
 # interact_with_eaggan
 
 send the functional programming reading list.... 
+https://www.goodreads.com/list/show/77215.Clojure_Bookshelf
+https://github.com/m-dimmitt/timetobuyandreadsoon
 <br>also question about these with the functional programming community
 
 ask him if he has video's accessable of is teaching systems software class.
