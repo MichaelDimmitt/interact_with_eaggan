@@ -1,7 +1,6 @@
 # interact_with_eaggan
 
 send the functional programming reading list.... 
-<br>https://www.goodreads.com/list/show/77215.Clojure_Bookshelf
 <br>https://github.com/m-dimmitt/timetobuyandreadsoon
 <br>also question about these with the functional programming community
 
